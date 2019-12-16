@@ -1,7 +1,7 @@
 # Site settings
 title: Bruce Blog
 SEOTitle: 不撸斯的博客
-header-img: img/home.png
+header-img: img/home-bj.jpg
 email: blue-1986@hotmail.com
 description: "若要装逼，必先牛逼，硬要装逼，必是傻逼。"
 keyword: "白白,Game,Backend,Golang,Redis,ETCD,gRPC,Kafka,NATS,ELK"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/bailu1901/bailu1901.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "reliable, stable, flexible"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
