@@ -3,7 +3,7 @@ title: Bruce Blog
 SEOTitle: 不撸斯的博客
 header-img: img/home-bj.jpg
 email: blue-1986@hotmail.com
-description: "若要装逼，必先牛逼，硬要装逼，必是傻逼。"
+description: "reliable, stable, flexible"
 keyword: "白白,Game,Backend,Golang,Redis,ETCD,gRPC,Kafka,NATS,ELK"
 url: "http://bailu1901.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
