@@ -1,7 +1,7 @@
 # Site settings
 title: 白白's Blog
 SEOTitle: 不撸斯的博客
-header-img: img/home-bj.jpg
+header-img: img/home.png
 email: blue-1986@hotmail.com
 description: "Reliable | Stable | Flexible"
 keyword: "白白,Game,Backend,Golang,Redis,ETCD,gRPC,Kafka,NATS,ELK"
